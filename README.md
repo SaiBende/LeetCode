@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SaiBende/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaiBende/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/SaiBende/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
