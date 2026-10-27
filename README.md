@@ -27,10 +27,12 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/SaiBende/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0509-fibonacci-number](https://github.com/SaiBende/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/SaiBende/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/SaiBende/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/SaiBende/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/SaiBende/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -47,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SaiBende/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/SaiBende/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
