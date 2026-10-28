@@ -11,6 +11,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/SaiBende/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaiBende/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SaiBende/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SaiBende/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SaiBende/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 | [0213-house-robber-ii](https://github.com/SaiBende/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/SaiBende/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/SaiBende/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SaiBende/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,8 +51,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SaiBende/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SaiBende/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/SaiBende/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SaiBende/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
