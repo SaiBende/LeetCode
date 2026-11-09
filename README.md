@@ -10,6 +10,7 @@
 | [0198-house-robber](https://github.com/SaiBende/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/SaiBende/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SaiBende/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SaiBende/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaiBende/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SaiBende/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SaiBende/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -40,6 +41,7 @@
 | [0213-house-robber-ii](https://github.com/SaiBende/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/SaiBende/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/SaiBende/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SaiBende/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SaiBende/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -62,5 +64,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/SaiBende/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SaiBende/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SaiBende/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
