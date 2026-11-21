@@ -66,4 +66,20 @@
 | [0064-minimum-path-sum](https://github.com/SaiBende/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SaiBende/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SaiBende/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/SaiBende/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/SaiBende/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/SaiBende/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/SaiBende/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
